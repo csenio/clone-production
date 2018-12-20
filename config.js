@@ -1,6 +1,6 @@
 const config = {
-  frontend: "159.65.120.224:3000",
-  backend: "159.65.120.224:4500",
+  frontend: "159.65.120.224",
+  backend: "159.65.120.224",
   mongodb: "159.65.120.224",
   environment: "production"
 };
