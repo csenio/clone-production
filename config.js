@@ -1,7 +1,7 @@
 const config = {
-  frontend: "http://localhost:3000",
-  backend: "http://localhost:4500",
-  mongodb: "localhost:27017",
+  frontend: "159.65.120.224:3000",
+  backend: "159.65.120.224:4500",
+  mongodb: "159.65.120.224",
   environment: "production"
 };
 
